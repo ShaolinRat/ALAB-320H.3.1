@@ -1,0 +1,23 @@
+.learner {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+  }
+  
+  .learner h2 {
+    color: #2c3e50;
+    margin-top: 0;
+  }
+  
+  .learner p {
+    line-height: 1.6;
+    color: #666;
+  }
+  
+  .scores {
+    margin-top: 15px;
+  }
+  
+  
